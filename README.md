@@ -1,3 +1,45 @@
+# Simple NestJS Authentication API
+
+A minimal NestJS API with two modules - Users and Reports. This project focuses on basic authentication using sessions and serialization.
+
+## Features
+
+- **Authentication:**
+  - Session-based authentication
+  - Serialization for user sessions
+
+- **Modules:**
+  - Users Module: Manages user information
+  - Reports Module: Handles report-related operations
+
+## Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js (>=14.0.0)
+- Docker
+- Docker Compose
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+   cd your-repo
+
+Install dependencies:
+```bash
+npm install
+```
+
+
+
+
+
+
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
