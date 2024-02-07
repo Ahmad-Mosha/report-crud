@@ -17,8 +17,6 @@ A minimal NestJS API with two modules - Users and Reports. This project focuses 
 Make sure you have the following installed:
 
 - Node.js (>=14.0.0)
-- Docker
-- Docker Compose
 
 ## Installation
 
